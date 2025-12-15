@@ -17,3 +17,8 @@ Versão executada no terminal usando input/output.
 ▶ Executar localmente:
 ```bash
 python quiz_terminal.py
+
+⚠️ Observação:
+O arquivo `quiz_interativo.ipynb` utiliza `ipywidgets`.
+A visualização correta do projeto interativo ocorre no Google Colab.
+No GitHub, o notebook pode apresentar marcações em vermelho, o que é esperado.
