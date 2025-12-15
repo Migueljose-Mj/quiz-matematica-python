@@ -9,7 +9,7 @@ O projeto possui duas versões:
 Interface gráfica utilizando ipywidgets.
 
 ▶ Executar online:
-https://colab.research.google.com/SEU_LINK_AQUI
+https://colab.research.google.com/drive/1d43z1_ZkLjS0odzFik1KJfT2ryDJO4mK?usp=sharing
 
 ### 🔹 Quiz em Terminal
 Versão executada no terminal usando input/output.
