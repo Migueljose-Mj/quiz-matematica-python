@@ -13,4 +13,4 @@ O projeto possui duas versões:
 - ipywidgets
 
 ## Executar online (versão interativa)
-🔗 https://colab.research.google.com/SEU_LINK_AQUI
+🔗 https://colab.research.google.com/drive/1d43z1_ZkLjS0odzFik1KJfT2ryDJO4mK?usp=sharing
