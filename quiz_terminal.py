@@ -1,4 +1,3 @@
-
 print("Bem vindo ao quiz de matematica! vamos testar seus conhecimentos?")
 
 acertos= 0
