@@ -1,16 +1,19 @@
 # Quiz de Matemática em Python
 
-Projeto desenvolvido em Python com foco em lógica de programação.
+Projeto desenvolvido para praticar lógica de programação em Python.
 O projeto possui duas versões:
 
-## Versões
-- **Quiz em terminal**: interação via input/output no console
-- **Quiz interativo**: interface gráfica utilizando ipywidgets no Google Colab
+## 📌 Versões
 
-## Tecnologias
-- Python
-- Google Colab
-- ipywidgets
+### 🔹 Quiz Interativo (Google Colab)
+Interface gráfica utilizando ipywidgets.
 
-## Executar online (versão interativa)
-🔗 https://colab.research.google.com/drive/1d43z1_ZkLjS0odzFik1KJfT2ryDJO4mK?usp=sharing
+▶ Executar online:
+https://colab.research.google.com/SEU_LINK_AQUI
+
+### 🔹 Quiz em Terminal
+Versão executada no terminal usando input/output.
+
+▶ Executar localmente:
+```bash
+python quiz_terminal.py
