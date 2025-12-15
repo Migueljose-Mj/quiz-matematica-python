@@ -1,5 +1,11 @@
 # Quiz de Matemática em Python
 
+⚠️ Observação:
+
+O arquivo `quiz_interativo.ipynb` utiliza `ipywidgets`.
+A visualização correta do projeto interativo ocorre no Google Colab.
+No GitHub, o notebook pode apresentar marcações em vermelho, o que é esperado.
+
 Projeto desenvolvido para praticar lógica de programação em Python.
 O projeto possui duas versões:
 
@@ -18,7 +24,7 @@ Versão executada no terminal usando input/output.
 ```bash
 python quiz_terminal.py
 
-⚠️ Observação:
-O arquivo `quiz_interativo.ipynb` utiliza `ipywidgets`.
-A visualização correta do projeto interativo ocorre no Google Colab.
-No GitHub, o notebook pode apresentar marcações em vermelho, o que é esperado.
+
+
+
+
