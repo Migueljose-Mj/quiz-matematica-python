@@ -14,8 +14,10 @@ O projeto possui duas versões:
 ### 🔹 Quiz Interativo (Google Colab)
 Interface gráfica utilizando ipywidgets.
 
-▶ Executar online:
-https://colab.research.google.com/drive/1d43z1_ZkLjS0odzFik1KJfT2ryDJO4mK?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d43z1_ZkLjS0odzFik1KJfT2ryDJO4mK?usp=sharing)
+
+### Visualização do Projeto:
+![Demonstração do Quiz](demo.png)
 
 ### 🔹 Quiz em Terminal
 Versão executada no terminal usando input/output.
