@@ -13,7 +13,7 @@ O projeto possui duas versões:
 
 ### 🔹 Quiz Interativo (Google Colab)
 Interface gráfica utilizando ipywidgets.
-
+Screenshot_2026-01-09-23-37-36-048_com.android.chrome-edit.jpg
 ▶ Executar online:
 https://colab.research.google.com/drive/1d43z1_ZkLjS0odzFik1KJfT2ryDJO4mK?usp=sharing
 
